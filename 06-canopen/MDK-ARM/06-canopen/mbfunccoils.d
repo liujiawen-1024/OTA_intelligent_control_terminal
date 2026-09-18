@@ -1,0 +1,12 @@
+06-canopen\mbfunccoils.o: ..\FreeModbus\mbfunccoils.c
+06-canopen\mbfunccoils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+06-canopen\mbfunccoils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+06-canopen\mbfunccoils.o: ..\FreeModbus\port.h
+06-canopen\mbfunccoils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\assert.h
+06-canopen\mbfunccoils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\inttypes.h
+06-canopen\mbfunccoils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+06-canopen\mbfunccoils.o: ..\FreeModbus\mb.h
+06-canopen\mbfunccoils.o: ..\FreeModbus\mbport.h
+06-canopen\mbfunccoils.o: ..\FreeModbus\mbproto.h
+06-canopen\mbfunccoils.o: ..\FreeModbus\mbframe.h
+06-canopen\mbfunccoils.o: ..\FreeModbus\mbconfig.h

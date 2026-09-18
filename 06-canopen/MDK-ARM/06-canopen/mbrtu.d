@@ -1,0 +1,13 @@
+06-canopen\mbrtu.o: ..\FreeModbus\mbrtu.c
+06-canopen\mbrtu.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+06-canopen\mbrtu.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+06-canopen\mbrtu.o: ..\FreeModbus\port.h
+06-canopen\mbrtu.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\assert.h
+06-canopen\mbrtu.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\inttypes.h
+06-canopen\mbrtu.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+06-canopen\mbrtu.o: ..\FreeModbus\mb.h
+06-canopen\mbrtu.o: ..\FreeModbus\mbport.h
+06-canopen\mbrtu.o: ..\FreeModbus\mbproto.h
+06-canopen\mbrtu.o: ..\FreeModbus\mbrtu.h
+06-canopen\mbrtu.o: ..\FreeModbus\mbframe.h
+06-canopen\mbrtu.o: ..\FreeModbus\mbcrc.h

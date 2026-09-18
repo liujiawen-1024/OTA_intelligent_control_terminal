@@ -1,0 +1,12 @@
+07-canopen-freertos\mbfunccoils.o: ..\FreeModbus\mbfunccoils.c
+07-canopen-freertos\mbfunccoils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+07-canopen-freertos\mbfunccoils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+07-canopen-freertos\mbfunccoils.o: ..\FreeModbus\port.h
+07-canopen-freertos\mbfunccoils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\assert.h
+07-canopen-freertos\mbfunccoils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\inttypes.h
+07-canopen-freertos\mbfunccoils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+07-canopen-freertos\mbfunccoils.o: ..\FreeModbus\mb.h
+07-canopen-freertos\mbfunccoils.o: ..\FreeModbus\mbport.h
+07-canopen-freertos\mbfunccoils.o: ..\FreeModbus\mbproto.h
+07-canopen-freertos\mbfunccoils.o: ..\FreeModbus\mbframe.h
+07-canopen-freertos\mbfunccoils.o: ..\FreeModbus\mbconfig.h

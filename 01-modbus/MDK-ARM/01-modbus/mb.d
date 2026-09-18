@@ -1,0 +1,15 @@
+01-modbus\mb.o: ..\FreeModbus\mb.c
+01-modbus\mb.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+01-modbus\mb.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+01-modbus\mb.o: ..\FreeModbus\port.h
+01-modbus\mb.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+01-modbus\mb.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+01-modbus\mb.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+01-modbus\mb.o: ..\FreeModbus\mb.h
+01-modbus\mb.o: ..\FreeModbus\mbport.h
+01-modbus\mb.o: ..\FreeModbus\mbproto.h
+01-modbus\mb.o: ..\FreeModbus\mbconfig.h
+01-modbus\mb.o: ..\FreeModbus\mbframe.h
+01-modbus\mb.o: ..\FreeModbus\mbfunc.h
+01-modbus\mb.o: ..\FreeModbus\mbrtu.h
+01-modbus\mb.o: ..\FreeModbus\mbascii.h

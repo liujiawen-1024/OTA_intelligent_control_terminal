@@ -1,0 +1,12 @@
+05-mqtt-freemodbus\mbfuncholding.o: ..\FreeModbus\mbfuncholding.c
+05-mqtt-freemodbus\mbfuncholding.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+05-mqtt-freemodbus\mbfuncholding.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+05-mqtt-freemodbus\mbfuncholding.o: ..\FreeModbus\port.h
+05-mqtt-freemodbus\mbfuncholding.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\assert.h
+05-mqtt-freemodbus\mbfuncholding.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\inttypes.h
+05-mqtt-freemodbus\mbfuncholding.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+05-mqtt-freemodbus\mbfuncholding.o: ..\FreeModbus\mb.h
+05-mqtt-freemodbus\mbfuncholding.o: ..\FreeModbus\mbport.h
+05-mqtt-freemodbus\mbfuncholding.o: ..\FreeModbus\mbproto.h
+05-mqtt-freemodbus\mbfuncholding.o: ..\FreeModbus\mbframe.h
+05-mqtt-freemodbus\mbfuncholding.o: ..\FreeModbus\mbconfig.h

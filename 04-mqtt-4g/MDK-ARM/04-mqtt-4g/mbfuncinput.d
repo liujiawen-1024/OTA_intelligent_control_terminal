@@ -1,0 +1,12 @@
+04-mqtt-4g\mbfuncinput.o: ..\FreeModbus\mbfuncinput.c
+04-mqtt-4g\mbfuncinput.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+04-mqtt-4g\mbfuncinput.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+04-mqtt-4g\mbfuncinput.o: ..\FreeModbus\port.h
+04-mqtt-4g\mbfuncinput.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\assert.h
+04-mqtt-4g\mbfuncinput.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\inttypes.h
+04-mqtt-4g\mbfuncinput.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+04-mqtt-4g\mbfuncinput.o: ..\FreeModbus\mb.h
+04-mqtt-4g\mbfuncinput.o: ..\FreeModbus\mbport.h
+04-mqtt-4g\mbfuncinput.o: ..\FreeModbus\mbproto.h
+04-mqtt-4g\mbfuncinput.o: ..\FreeModbus\mbframe.h
+04-mqtt-4g\mbfuncinput.o: ..\FreeModbus\mbconfig.h

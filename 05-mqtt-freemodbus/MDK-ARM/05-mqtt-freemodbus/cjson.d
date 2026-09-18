@@ -1,0 +1,10 @@
+05-mqtt-freemodbus\cjson.o: ..\Core\Src\cJSON.c
+05-mqtt-freemodbus\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+05-mqtt-freemodbus\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+05-mqtt-freemodbus\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\math.h
+05-mqtt-freemodbus\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+05-mqtt-freemodbus\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\limits.h
+05-mqtt-freemodbus\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\ctype.h
+05-mqtt-freemodbus\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\float.h
+05-mqtt-freemodbus\cjson.o: ../Core/Inc/cJSON.h
+05-mqtt-freemodbus\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stddef.h

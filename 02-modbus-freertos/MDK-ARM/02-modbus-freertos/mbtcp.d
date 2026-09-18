@@ -1,0 +1,13 @@
+02-modbus-freertos\mbtcp.o: ..\FreeModbus\mbtcp.c
+02-modbus-freertos\mbtcp.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+02-modbus-freertos\mbtcp.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+02-modbus-freertos\mbtcp.o: ..\FreeModbus\port.h
+02-modbus-freertos\mbtcp.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+02-modbus-freertos\mbtcp.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+02-modbus-freertos\mbtcp.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+02-modbus-freertos\mbtcp.o: ..\FreeModbus\mb.h
+02-modbus-freertos\mbtcp.o: ..\FreeModbus\mbport.h
+02-modbus-freertos\mbtcp.o: ..\FreeModbus\mbproto.h
+02-modbus-freertos\mbtcp.o: ..\FreeModbus\mbconfig.h
+02-modbus-freertos\mbtcp.o: ..\FreeModbus\mbtcp.h
+02-modbus-freertos\mbtcp.o: ..\FreeModbus\mbframe.h

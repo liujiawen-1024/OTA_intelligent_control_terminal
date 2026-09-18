@@ -1,0 +1,13 @@
+05-mqtt-freemodbus\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+05-mqtt-freemodbus\heap_4.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+05-mqtt-freemodbus\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+05-mqtt-freemodbus\heap_4.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+05-mqtt-freemodbus\heap_4.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+05-mqtt-freemodbus\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+05-mqtt-freemodbus\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+05-mqtt-freemodbus\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+05-mqtt-freemodbus\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+05-mqtt-freemodbus\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+05-mqtt-freemodbus\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+05-mqtt-freemodbus\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+05-mqtt-freemodbus\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

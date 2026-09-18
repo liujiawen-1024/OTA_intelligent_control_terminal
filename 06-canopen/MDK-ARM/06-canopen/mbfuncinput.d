@@ -1,0 +1,12 @@
+06-canopen\mbfuncinput.o: ..\FreeModbus\mbfuncinput.c
+06-canopen\mbfuncinput.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+06-canopen\mbfuncinput.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+06-canopen\mbfuncinput.o: ..\FreeModbus\port.h
+06-canopen\mbfuncinput.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\assert.h
+06-canopen\mbfuncinput.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\inttypes.h
+06-canopen\mbfuncinput.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+06-canopen\mbfuncinput.o: ..\FreeModbus\mb.h
+06-canopen\mbfuncinput.o: ..\FreeModbus\mbport.h
+06-canopen\mbfuncinput.o: ..\FreeModbus\mbproto.h
+06-canopen\mbfuncinput.o: ..\FreeModbus\mbframe.h
+06-canopen\mbfuncinput.o: ..\FreeModbus\mbconfig.h

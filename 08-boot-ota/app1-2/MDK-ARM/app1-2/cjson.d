@@ -1,0 +1,10 @@
+app1-2\cjson.o: ..\Core\Src\cJSON.c
+app1-2\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+app1-2\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+app1-2\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\math.h
+app1-2\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+app1-2\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\limits.h
+app1-2\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\ctype.h
+app1-2\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\float.h
+app1-2\cjson.o: ../Core/Inc/cJSON.h
+app1-2\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stddef.h

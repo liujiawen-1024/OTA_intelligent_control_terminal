@@ -1,0 +1,13 @@
+05-mqtt-freemodbus\mbrtu.o: ..\FreeModbus\mbrtu.c
+05-mqtt-freemodbus\mbrtu.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+05-mqtt-freemodbus\mbrtu.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+05-mqtt-freemodbus\mbrtu.o: ..\FreeModbus\port.h
+05-mqtt-freemodbus\mbrtu.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\assert.h
+05-mqtt-freemodbus\mbrtu.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\inttypes.h
+05-mqtt-freemodbus\mbrtu.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+05-mqtt-freemodbus\mbrtu.o: ..\FreeModbus\mb.h
+05-mqtt-freemodbus\mbrtu.o: ..\FreeModbus\mbport.h
+05-mqtt-freemodbus\mbrtu.o: ..\FreeModbus\mbproto.h
+05-mqtt-freemodbus\mbrtu.o: ..\FreeModbus\mbrtu.h
+05-mqtt-freemodbus\mbrtu.o: ..\FreeModbus\mbframe.h
+05-mqtt-freemodbus\mbrtu.o: ..\FreeModbus\mbcrc.h

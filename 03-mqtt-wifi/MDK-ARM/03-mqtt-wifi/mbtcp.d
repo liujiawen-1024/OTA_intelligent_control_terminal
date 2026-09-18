@@ -1,0 +1,13 @@
+03-mqtt-wifi\mbtcp.o: ..\FreeModbus\mbtcp.c
+03-mqtt-wifi\mbtcp.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+03-mqtt-wifi\mbtcp.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+03-mqtt-wifi\mbtcp.o: ..\FreeModbus\port.h
+03-mqtt-wifi\mbtcp.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+03-mqtt-wifi\mbtcp.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+03-mqtt-wifi\mbtcp.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+03-mqtt-wifi\mbtcp.o: ..\FreeModbus\mb.h
+03-mqtt-wifi\mbtcp.o: ..\FreeModbus\mbport.h
+03-mqtt-wifi\mbtcp.o: ..\FreeModbus\mbproto.h
+03-mqtt-wifi\mbtcp.o: ..\FreeModbus\mbconfig.h
+03-mqtt-wifi\mbtcp.o: ..\FreeModbus\mbtcp.h
+03-mqtt-wifi\mbtcp.o: ..\FreeModbus\mbframe.h

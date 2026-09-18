@@ -1,0 +1,12 @@
+04-mqtt-4g\mbfuncfile.o: ..\FreeModbus\mbfuncfile.c
+04-mqtt-4g\mbfuncfile.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+04-mqtt-4g\mbfuncfile.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+04-mqtt-4g\mbfuncfile.o: ..\FreeModbus\port.h
+04-mqtt-4g\mbfuncfile.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\assert.h
+04-mqtt-4g\mbfuncfile.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\inttypes.h
+04-mqtt-4g\mbfuncfile.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+04-mqtt-4g\mbfuncfile.o: ..\FreeModbus\mb.h
+04-mqtt-4g\mbfuncfile.o: ..\FreeModbus\mbport.h
+04-mqtt-4g\mbfuncfile.o: ..\FreeModbus\mbproto.h
+04-mqtt-4g\mbfuncfile.o: ..\FreeModbus\mbframe.h
+04-mqtt-4g\mbfuncfile.o: ..\FreeModbus\mbconfig.h

@@ -1,0 +1,10 @@
+06-canopen\mbutils.o: ..\FreeModbus\mbutils.c
+06-canopen\mbutils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+06-canopen\mbutils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+06-canopen\mbutils.o: ..\FreeModbus\port.h
+06-canopen\mbutils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\assert.h
+06-canopen\mbutils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\inttypes.h
+06-canopen\mbutils.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+06-canopen\mbutils.o: ..\FreeModbus\mb.h
+06-canopen\mbutils.o: ..\FreeModbus\mbport.h
+06-canopen\mbutils.o: ..\FreeModbus\mbproto.h

@@ -1,0 +1,10 @@
+07-canopen-freertos\cjson.o: ..\Core\Src\cJSON.c
+07-canopen-freertos\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+07-canopen-freertos\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+07-canopen-freertos\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\math.h
+07-canopen-freertos\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+07-canopen-freertos\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\limits.h
+07-canopen-freertos\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\ctype.h
+07-canopen-freertos\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\float.h
+07-canopen-freertos\cjson.o: ../Core/Inc/cJSON.h
+07-canopen-freertos\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stddef.h

@@ -1,0 +1,10 @@
+04-mqtt-4g\cjson.o: ..\Core\Src\cJSON.c
+04-mqtt-4g\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+04-mqtt-4g\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+04-mqtt-4g\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\math.h
+04-mqtt-4g\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+04-mqtt-4g\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\limits.h
+04-mqtt-4g\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\ctype.h
+04-mqtt-4g\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\float.h
+04-mqtt-4g\cjson.o: ../Core/Inc/cJSON.h
+04-mqtt-4g\cjson.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stddef.h

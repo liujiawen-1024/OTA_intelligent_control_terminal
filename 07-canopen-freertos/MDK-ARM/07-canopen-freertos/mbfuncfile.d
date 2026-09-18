@@ -1,0 +1,12 @@
+07-canopen-freertos\mbfuncfile.o: ..\FreeModbus\mbfuncfile.c
+07-canopen-freertos\mbfuncfile.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+07-canopen-freertos\mbfuncfile.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\string.h
+07-canopen-freertos\mbfuncfile.o: ..\FreeModbus\port.h
+07-canopen-freertos\mbfuncfile.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\assert.h
+07-canopen-freertos\mbfuncfile.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\inttypes.h
+07-canopen-freertos\mbfuncfile.o: D:\develop\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+07-canopen-freertos\mbfuncfile.o: ..\FreeModbus\mb.h
+07-canopen-freertos\mbfuncfile.o: ..\FreeModbus\mbport.h
+07-canopen-freertos\mbfuncfile.o: ..\FreeModbus\mbproto.h
+07-canopen-freertos\mbfuncfile.o: ..\FreeModbus\mbframe.h
+07-canopen-freertos\mbfuncfile.o: ..\FreeModbus\mbconfig.h

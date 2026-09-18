@@ -1,0 +1,12 @@
+02-modbus-freertos\mbfunccoils.o: ..\FreeModbus\mbfunccoils.c
+02-modbus-freertos\mbfunccoils.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+02-modbus-freertos\mbfunccoils.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+02-modbus-freertos\mbfunccoils.o: ..\FreeModbus\port.h
+02-modbus-freertos\mbfunccoils.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+02-modbus-freertos\mbfunccoils.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+02-modbus-freertos\mbfunccoils.o: D:\develop\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+02-modbus-freertos\mbfunccoils.o: ..\FreeModbus\mb.h
+02-modbus-freertos\mbfunccoils.o: ..\FreeModbus\mbport.h
+02-modbus-freertos\mbfunccoils.o: ..\FreeModbus\mbproto.h
+02-modbus-freertos\mbfunccoils.o: ..\FreeModbus\mbframe.h
+02-modbus-freertos\mbfunccoils.o: ..\FreeModbus\mbconfig.h
